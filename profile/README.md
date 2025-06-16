@@ -4,7 +4,7 @@
 
 Welcome to the GameShop organization! Here is an overview of our services:
 
-![Architecture Diagram](architecture/arch.png)
+![Architecture Diagram](../architecture/arch.png)
 
 ### Play.Catalog
 This project contains the Catalog service and related contracts for the GameShop solution.
