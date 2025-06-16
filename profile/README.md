@@ -1,6 +1,6 @@
 
 
-## Hello Everyone
+## Scalable Event-Driven Microservices Architecture
 
 Welcome to the GameShop organization! Here is an overview of our services:
 
